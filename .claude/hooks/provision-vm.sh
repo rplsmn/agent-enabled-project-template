@@ -20,8 +20,8 @@ bun x gh-setup-hooks
 # ============================================================================
 echo ""
 echo "📝 Configuring git for web VM..."
-git config --global user.name "rplsmn (Claude Code VM)"
-git config --global user.email "rplsmn+claudecodeweb@users.noreply.github.com"
+git config --global user.name "rplsmn (CC)"
+git config --global user.email "74007913+rplsmn@users.noreply.github.com"
 echo "✓ Git configured as: $(git config --global user.name) <$(git config --global user.email)>"
 
 # ============================================================================
